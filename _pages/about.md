@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student from [Department of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Scinence and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a senior undergraduate student from [Department of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Scinence and Technology of China](https://www.ustc.edu.cn/). My research interest includes Edge Computing and Edge AI, Wireless Communciations and Machine Learning.
 
 I am very fortunate to be advised by [Prof. Yanchao Yang](https://yanchaoyang.github.io/) from  the Department of [Electrical and Electronic Engineering (EEE)](https://www.eee.hku.hk/), University of Hong Kong. I was advised by [Prof. Xiaohua Xu](http://staff.ustc.edu.cn/~xiaohuaxu/) from [School of Computer Science](https://cs.ustc.edu.cn/), University of Scinence and Technology of China.
 
